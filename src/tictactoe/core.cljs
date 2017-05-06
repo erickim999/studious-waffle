@@ -1,5 +1,6 @@
 (ns tictactoe.core
-  (:require [reagent.core :as reagent :refer [atom]]))
+  (:require [reagent.core :as reagent :refer [atom]]
+            [tictactoe.rec :refer [rec]]))
 
 (enable-console-print!)
 
