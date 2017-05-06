@@ -1,0 +1,1122 @@
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 4.108 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.692 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.871 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.049 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.06 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.898 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.195 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.959 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.524 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.184 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:13  column:17  ----[0m
+
+  [1mWrong number of args (0) passed to tictactoe.core/new-board[0m
+
+  [36m 9[0m  [36m(prn (new-board 3))[0m
+  [36m10[0m  [36m[0m
+  [36m11[0m  [36m(defonce app-state[0m
+  [36m12[0m  [36m  (atom {:text "Welcome to tic tac toe!"[0m
+  [33m13[0m  [1m         :board (new-board)}))[0m
+  [0m  [0m  [33m                ^--- Wrong number of args (0) passed to tictactoe.core/new-board[0m
+  [36m14[0m  [36m[0m
+  [36m15[0m  [36m(defn tictactoe [][0m
+  [36m16[0m  [36m  [:center[0m
+  [36m17[0m  [36m  [:div[0m
+  [36m18[0m  [36m  [:h1 (:text @app-state)][0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.584 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.067 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.42 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 3.334 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.246 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.46 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.251 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.53 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.228 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.858 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.237 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.381 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 3.242 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:18  column:3  ----[0m
+
+  [1mWrong number of args (1) passed to cljs.core/into[0m
+
+  [36m15[0m  [36m(defn tictactoe [][0m
+  [36m16[0m  [36m  [:center[0m
+  [36m17[0m  [36m  [:h1 (:text @app-state)][0m
+  [33m18[0m  [1m  (into[0m
+  [0m  [0m  [33m  ^--- Wrong number of args (1) passed to cljs.core/into[0m
+  [36m19[0m  [36m   [:svg[0m
+  [36m20[0m  [36m    {:view-box "0 0 3 3"[0m
+  [36m21[0m  [36m     :width 500[0m
+  [36m22[0m  [36m     :height 500}[0m
+  [36m23[0m  [36m    (for [i (range (count (:board @app-state)))[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 4.38 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.497 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.429 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:18  column:4  ----[0m
+
+  [1mWrong number of args (1) passed to cljs.core/into[0m
+
+  [36m15[0m  [36m(defn tictactoe [][0m
+  [36m16[0m  [36m  [:center[0m
+  [36m17[0m  [36m  [:h1 (:text @app-state)][0m
+  [33m18[0m  [1m   (into[0m
+  [0m  [0m  [33m   ^--- Wrong number of args (1) passed to cljs.core/into[0m
+  [36m19[0m  [36m   [:svg[0m
+  [36m20[0m  [36m    {:view-box "0 0 3 3"[0m
+  [36m21[0m  [36m     :width 500[0m
+  [36m22[0m  [36m     :height 500}[0m
+  [36m23[0m  [36m    (for [i (range (count (:board @app-state)))[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.434 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:18  column:4  ----[0m
+
+  [1mWrong number of args (1) passed to cljs.core/into[0m
+
+  [36m15[0m  [36m(defn tictactoe [][0m
+  [36m16[0m  [36m  [:center[0m
+  [36m17[0m  [36m  [:h1 (:text @app-state)][0m
+  [33m18[0m  [1m   (into[0m
+  [0m  [0m  [33m   ^--- Wrong number of args (1) passed to cljs.core/into[0m
+  [36m19[0m  [36m   [:svg[0m
+  [36m20[0m  [36m    {:view-box "0 0 3 3"[0m
+  [36m21[0m  [36m     :width 500[0m
+  [36m22[0m  [36m     :height 500}[0m
+  [36m23[0m  [36m    (for [i (range (count (:board @app-state)))[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 6.131 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 3.338 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 4.949 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:29  column:10  ----[0m
+
+  [1mUse of undeclared Var tictactoe.core/i[0m
+
+  [36m26[0m  [36m(defn circle [][0m
+  [36m27[0m  [36m  [:circle[0m
+  [36m28[0m  [36m    {:r 0.45[0m
+  [33m29[0m  [1m     :cx i[0m
+  [0m  [0m  [33m         ^--- Use of undeclared Var tictactoe.core/i[0m
+  [36m30[0m  [36m     :cy j}])[0m
+  [36m31[0m  [36m[0m
+  [36m32[0m  [36m(defn cross [][0m
+  [36m33[0m  [36m  [:div])[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:30  column:10  ----[0m
+
+  [1mUse of undeclared Var tictactoe.core/j[0m
+
+  [36m26[0m  [36m(defn circle [][0m
+  [36m27[0m  [36m  [:circle[0m
+  [36m28[0m  [36m    {:r 0.45[0m
+  [36m29[0m  [36m     :cx i[0m
+  [33m30[0m  [1m     :cy j}])[0m
+  [0m  [0m  [33m         ^--- Use of undeclared Var tictactoe.core/j[0m
+  [36m31[0m  [36m[0m
+  [36m32[0m  [36m(defn cross [][0m
+  [36m33[0m  [36m  [:div])[0m
+  [36m34[0m  [36m[0m
+  [36m35[0m  [36m(defn tictactoe [][0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 6.193 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:30  column:17  ----[0m
+
+  [1mUse of undeclared Var tictactoe.core/i[0m
+
+  [36m26[0m  [36m(defn circle [][0m
+  [36m27[0m  [36m  [:circle[0m
+  [36m28[0m  [36m    {:r 0.45[0m
+  [36m29[0m  [36m     :fill "red"[0m
+  [33m30[0m  [1m     :cx (+ 0.5 i)[0m
+  [0m  [0m  [33m                ^--- Use of undeclared Var tictactoe.core/i[0m
+  [36m31[0m  [36m     :cy (+ 0.5 j)}])[0m
+  [36m32[0m  [36m[0m
+  [36m33[0m  [36m(defn cross [][0m
+  [36m34[0m  [36m  [:div])[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:31  column:17  ----[0m
+
+  [1mUse of undeclared Var tictactoe.core/j[0m
+
+  [36m27[0m  [36m  [:circle[0m
+  [36m28[0m  [36m    {:r 0.45[0m
+  [36m29[0m  [36m     :fill "red"[0m
+  [36m30[0m  [36m     :cx (+ 0.5 i)[0m
+  [33m31[0m  [1m     :cy (+ 0.5 j)}])[0m
+  [0m  [0m  [33m                ^--- Use of undeclared Var tictactoe.core/j[0m
+  [36m32[0m  [36m[0m
+  [36m33[0m  [36m(defn cross [][0m
+  [36m34[0m  [36m  [:div])[0m
+  [36m35[0m  [36m[0m
+  [36m36[0m  [36m(defn tictactoe [][0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 3.59 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:30  column:17  ----[0m
+
+  [1mUse of undeclared Var tictactoe.core/i[0m
+
+  [36m26[0m  [36m(defn circle [][0m
+  [36m27[0m  [36m  [:circle[0m
+  [36m28[0m  [36m    {:r 0.45[0m
+  [36m29[0m  [36m     :fill "red"[0m
+  [33m30[0m  [1m     :cx (+ 0.5 i)[0m
+  [0m  [0m  [33m                ^--- Use of undeclared Var tictactoe.core/i[0m
+  [36m31[0m  [36m     :cy (+ 0.5 j)}])[0m
+  [36m32[0m  [36m[0m
+  [36m33[0m  [36m(defn cross [][0m
+  [36m34[0m  [36m  [:div])[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:31  column:17  ----[0m
+
+  [1mUse of undeclared Var tictactoe.core/j[0m
+
+  [36m27[0m  [36m  [:circle[0m
+  [36m28[0m  [36m    {:r 0.45[0m
+  [36m29[0m  [36m     :fill "red"[0m
+  [36m30[0m  [36m     :cx (+ 0.5 i)[0m
+  [33m31[0m  [1m     :cy (+ 0.5 j)}])[0m
+  [0m  [0m  [33m                ^--- Use of undeclared Var tictactoe.core/j[0m
+  [36m32[0m  [36m[0m
+  [36m33[0m  [36m(defn cross [][0m
+  [36m34[0m  [36m  [:div])[0m
+  [36m35[0m  [36m[0m
+  [36m36[0m  [36m(defn tictactoe [][0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.899 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:30  column:17  ----[0m
+
+  [1mUse of undeclared Var tictactoe.core/i[0m
+
+  [36m26[0m  [36m(defn circle [][0m
+  [36m27[0m  [36m  [:circle[0m
+  [36m28[0m  [36m    {:r 0.45[0m
+  [36m29[0m  [36m     :fill "red"[0m
+  [33m30[0m  [1m     :cx (+ 0.5 i)[0m
+  [0m  [0m  [33m                ^--- Use of undeclared Var tictactoe.core/i[0m
+  [36m31[0m  [36m     :cy (+ 0.5 j)}])[0m
+  [36m32[0m  [36m[0m
+  [36m33[0m  [36m(defn cross [][0m
+  [36m34[0m  [36m  [:div])[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:31  column:17  ----[0m
+
+  [1mUse of undeclared Var tictactoe.core/j[0m
+
+  [36m27[0m  [36m  [:circle[0m
+  [36m28[0m  [36m    {:r 0.45[0m
+  [36m29[0m  [36m     :fill "red"[0m
+  [36m30[0m  [36m     :cx (+ 0.5 i)[0m
+  [33m31[0m  [1m     :cy (+ 0.5 j)}])[0m
+  [0m  [0m  [33m                ^--- Use of undeclared Var tictactoe.core/j[0m
+  [36m32[0m  [36m[0m
+  [36m33[0m  [36m(defn cross [][0m
+  [36m34[0m  [36m  [:div])[0m
+  [36m35[0m  [36m[0m
+  [36m36[0m  [36m(defn tictactoe [][0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 3.173 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 3.283 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.874 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 3.625 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:58  column:4  ----[0m
+
+  [1mUse of undeclared Var tictactoe.core/swap[0m
+
+  [36m54[0m  [36m(reagent/render-component [tictactoe][0m
+  [36m55[0m  [36m                          (. js/document (getElementById "app")))[0m
+  [36m56[0m  [36m[0m
+  [36m57[0m  [36m(defn on-js-reload [][0m
+  [33m58[0m  [1m  (swap ! app-state assoc-in [:board 0 0] 2))[0m
+  [0m  [0m  [33m   ^--- Use of undeclared Var tictactoe.core/swap[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:58  column:9  ----[0m
+
+  [1mUse of undeclared Var tictactoe.core/![0m
+
+  [36m54[0m  [36m(reagent/render-component [tictactoe][0m
+  [36m55[0m  [36m                          (. js/document (getElementById "app")))[0m
+  [36m56[0m  [36m[0m
+  [36m57[0m  [36m(defn on-js-reload [][0m
+  [33m58[0m  [1m  (swap ! app-state assoc-in [:board 0 0] 2))[0m
+  [0m  [0m  [33m        ^--- Use of undeclared Var tictactoe.core/![0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.736 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.406 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.656 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 3.474 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.402 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.888 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.306 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.611 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.254 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.649 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.599 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.296 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.541 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.93 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.464 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.058 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/tictactoe.js" in 1.499 seconds.[0m
+[36m----  Could not Read  src/tictactoe/core.cljs   line:22  column:44  ----[0m
+
+  [1mUnmatched delimiter ][0m
+
+  [36m20[0m  [36m                          [i j]][0m
+  [36m21[0m  [36m        move (rand-nth remaining-spots)[0m
+  [33m22[0m  [1m        path (into [:board] (reverse move)][0m
+  [0m  [0m  [33m                                           ^--- Unmatched delimiter ][0m
+  [36m23[0m  [36m    (swap! app-state assoc-in [:board 0 0] "C")))[0m
+  [36m24[0m  [36m[0m
+  [36m25[0m  [36m(defn blank [i j][0m
+
+[36m----  Reader Error : Please see src/tictactoe/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:16  column:24  ----[0m
+
+  [1mUse of undeclared Var tictactoe.core/app-satte[0m
+
+  [36m12[0m  [36m  (atom {:text "Welcome to tic tac toe!"[0m
+  [36m13[0m  [36m         :board (new-board board-size)}))[0m
+  [36m14[0m  [36m[0m
+  [36m15[0m  [36m(defn computer-move [][0m
+  [33m16[0m  [1m  (let [board (:board @app-satte)[0m
+  [0m  [0m  [33m                       ^--- Use of undeclared Var tictactoe.core/app-satte[0m
+  [36m17[0m  [36m        remaining-spots [for [i (range board-size)[0m
+  [36m18[0m  [36m                              j (range board-size)[0m
+  [36m19[0m  [36m                              :when (= (get-in board [j i]) "B")][0m
+  [36m20[0m  [36m                          [i j]][0m
+  [36m21[0m  [36m        move (rand-nth remaining-spots)[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:17  column:26  ----[0m
+
+  [1mCan't take value of macro cljs.core/for[0m
+
+  [36m13[0m  [36m         :board (new-board board-size)}))[0m
+  [36m14[0m  [36m[0m
+  [36m15[0m  [36m(defn computer-move [][0m
+  [36m16[0m  [36m  (let [board (:board @app-satte)[0m
+  [33m17[0m  [1m        remaining-spots [for [i (range board-size)[0m
+  [0m  [0m  [33m                         ^--- Can't take value of macro cljs.core/for[0m
+  [36m18[0m  [36m                              j (range board-size)[0m
+  [36m19[0m  [36m                              :when (= (get-in board [j i]) "B")][0m
+  [36m20[0m  [36m                          [i j]][0m
+  [36m21[0m  [36m        move (rand-nth remaining-spots)[0m
+  [36m22[0m  [36m        path (into [:board] (reverse move))][0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:17  column:31  ----[0m
+
+  [1mUse of undeclared Var tictactoe.core/i[0m
+
+  [36m13[0m  [36m         :board (new-board board-size)}))[0m
+  [36m14[0m  [36m[0m
+  [36m15[0m  [36m(defn computer-move [][0m
+  [36m16[0m  [36m  (let [board (:board @app-satte)[0m
+  [33m17[0m  [1m        remaining-spots [for [i (range board-size)[0m
+  [0m  [0m  [33m                              ^--- Use of undeclared Var tictactoe.core/i[0m
+  [36m18[0m  [36m                              j (range board-size)[0m
+  [36m19[0m  [36m                              :when (= (get-in board [j i]) "B")][0m
+  [36m20[0m  [36m                          [i j]][0m
+  [36m21[0m  [36m        move (rand-nth remaining-spots)[0m
+  [36m22[0m  [36m        path (into [:board] (reverse move))][0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:18  column:31  ----[0m
+
+  [1mUse of undeclared Var tictactoe.core/j[0m
+
+  [36m15[0m  [36m(defn computer-move [][0m
+  [36m16[0m  [36m  (let [board (:board @app-satte)[0m
+  [36m17[0m  [36m        remaining-spots [for [i (range board-size)[0m
+  [33m18[0m  [1m                              j (range board-size)[0m
+  [0m  [0m  [33m                              ^--- Use of undeclared Var tictactoe.core/j[0m
+  [36m19[0m  [36m                              :when (= (get-in board [j i]) "B")][0m
+  [36m20[0m  [36m                          [i j]][0m
+  [36m21[0m  [36m        move (rand-nth remaining-spots)[0m
+  [36m22[0m  [36m        path (into [:board] (reverse move))][0m
+  [36m23[0m  [36m    (swap! app-state assoc-in [:board 0 0] "C")))[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:19  column:55  ----[0m
+
+  [1mUse of undeclared Var tictactoe.core/j[0m
+
+  [36m15[0m  [36m(defn computer-move [][0m
+  [36m16[0m  [36m  (let [board (:board @app-satte)[0m
+  [36m17[0m  [36m        remaining-spots [for [i (range board-size)[0m
+  [36m18[0m  [36m                              j (range board-size)[0m
+  [33m19[0m  [1m                              :when (= (get-in board [j i]) "B")][0m
+  [0m  [0m  [33m                                                      ^--- Use of undeclared Var tictactoe.core/j[0m
+  [36m20[0m  [36m                          [i j]][0m
+  [36m21[0m  [36m        move (rand-nth remaining-spots)[0m
+  [36m22[0m  [36m        path (into [:board] (reverse move))][0m
+  [36m23[0m  [36m    (swap! app-state assoc-in [:board 0 0] "C")))[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:19  column:57  ----[0m
+
+  [1mUse of undeclared Var tictactoe.core/i[0m
+
+  [36m15[0m  [36m(defn computer-move [][0m
+  [36m16[0m  [36m  (let [board (:board @app-satte)[0m
+  [36m17[0m  [36m        remaining-spots [for [i (range board-size)[0m
+  [36m18[0m  [36m                              j (range board-size)[0m
+  [33m19[0m  [1m                              :when (= (get-in board [j i]) "B")][0m
+  [0m  [0m  [33m                                                        ^--- Use of undeclared Var tictactoe.core/i[0m
+  [36m20[0m  [36m                          [i j]][0m
+  [36m21[0m  [36m        move (rand-nth remaining-spots)[0m
+  [36m22[0m  [36m        path (into [:board] (reverse move))][0m
+  [36m23[0m  [36m    (swap! app-state assoc-in [:board 0 0] "C")))[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:20  column:28  ----[0m
+
+  [1mUse of undeclared Var tictactoe.core/i[0m
+
+  [36m16[0m  [36m  (let [board (:board @app-satte)[0m
+  [36m17[0m  [36m        remaining-spots [for [i (range board-size)[0m
+  [36m18[0m  [36m                              j (range board-size)[0m
+  [36m19[0m  [36m                              :when (= (get-in board [j i]) "B")][0m
+  [33m20[0m  [1m                          [i j]][0m
+  [0m  [0m  [33m                           ^--- Use of undeclared Var tictactoe.core/i[0m
+  [36m21[0m  [36m        move (rand-nth remaining-spots)[0m
+  [36m22[0m  [36m        path (into [:board] (reverse move))][0m
+  [36m23[0m  [36m    (swap! app-state assoc-in [:board 0 0] "C")))[0m
+  [36m24[0m  [36m[0m
+  [36m25[0m  [36m(defn blank [i j][0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:20  column:30  ----[0m
+
+  [1mUse of undeclared Var tictactoe.core/j[0m
+
+  [36m16[0m  [36m  (let [board (:board @app-satte)[0m
+  [36m17[0m  [36m        remaining-spots [for [i (range board-size)[0m
+  [36m18[0m  [36m                              j (range board-size)[0m
+  [36m19[0m  [36m                              :when (= (get-in board [j i]) "B")][0m
+  [33m20[0m  [1m                          [i j]][0m
+  [0m  [0m  [33m                             ^--- Use of undeclared Var tictactoe.core/j[0m
+  [36m21[0m  [36m        move (rand-nth remaining-spots)[0m
+  [36m22[0m  [36m        path (into [:board] (reverse move))][0m
+  [36m23[0m  [36m    (swap! app-state assoc-in [:board 0 0] "C")))[0m
+  [36m24[0m  [36m[0m
+  [36m25[0m  [36m(defn blank [i j][0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.879 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:17  column:26  ----[0m
+
+  [1mCan't take value of macro cljs.core/for[0m
+
+  [36m13[0m  [36m         :board (new-board board-size)}))[0m
+  [36m14[0m  [36m[0m
+  [36m15[0m  [36m(defn computer-move [][0m
+  [36m16[0m  [36m  (let [board (:board @app-state)[0m
+  [33m17[0m  [1m        remaining-spots [for [i (range board-size)[0m
+  [0m  [0m  [33m                         ^--- Can't take value of macro cljs.core/for[0m
+  [36m18[0m  [36m                              j (range board-size)[0m
+  [36m19[0m  [36m                              :when (= (get-in board [j i]) "B")][0m
+  [36m20[0m  [36m                          [i j]][0m
+  [36m21[0m  [36m        move (rand-nth remaining-spots)[0m
+  [36m22[0m  [36m        path (into [:board] (reverse move))][0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:17  column:31  ----[0m
+
+  [1mUse of undeclared Var tictactoe.core/i[0m
+
+  [36m13[0m  [36m         :board (new-board board-size)}))[0m
+  [36m14[0m  [36m[0m
+  [36m15[0m  [36m(defn computer-move [][0m
+  [36m16[0m  [36m  (let [board (:board @app-state)[0m
+  [33m17[0m  [1m        remaining-spots [for [i (range board-size)[0m
+  [0m  [0m  [33m                              ^--- Use of undeclared Var tictactoe.core/i[0m
+  [36m18[0m  [36m                              j (range board-size)[0m
+  [36m19[0m  [36m                              :when (= (get-in board [j i]) "B")][0m
+  [36m20[0m  [36m                          [i j]][0m
+  [36m21[0m  [36m        move (rand-nth remaining-spots)[0m
+  [36m22[0m  [36m        path (into [:board] (reverse move))][0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:18  column:31  ----[0m
+
+  [1mUse of undeclared Var tictactoe.core/j[0m
+
+  [36m15[0m  [36m(defn computer-move [][0m
+  [36m16[0m  [36m  (let [board (:board @app-state)[0m
+  [36m17[0m  [36m        remaining-spots [for [i (range board-size)[0m
+  [33m18[0m  [1m                              j (range board-size)[0m
+  [0m  [0m  [33m                              ^--- Use of undeclared Var tictactoe.core/j[0m
+  [36m19[0m  [36m                              :when (= (get-in board [j i]) "B")][0m
+  [36m20[0m  [36m                          [i j]][0m
+  [36m21[0m  [36m        move (rand-nth remaining-spots)[0m
+  [36m22[0m  [36m        path (into [:board] (reverse move))][0m
+  [36m23[0m  [36m    (swap! app-state assoc-in [:board 0 0] "C")))[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:19  column:55  ----[0m
+
+  [1mUse of undeclared Var tictactoe.core/j[0m
+
+  [36m15[0m  [36m(defn computer-move [][0m
+  [36m16[0m  [36m  (let [board (:board @app-state)[0m
+  [36m17[0m  [36m        remaining-spots [for [i (range board-size)[0m
+  [36m18[0m  [36m                              j (range board-size)[0m
+  [33m19[0m  [1m                              :when (= (get-in board [j i]) "B")][0m
+  [0m  [0m  [33m                                                      ^--- Use of undeclared Var tictactoe.core/j[0m
+  [36m20[0m  [36m                          [i j]][0m
+  [36m21[0m  [36m        move (rand-nth remaining-spots)[0m
+  [36m22[0m  [36m        path (into [:board] (reverse move))][0m
+  [36m23[0m  [36m    (swap! app-state assoc-in [:board 0 0] "C")))[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:19  column:57  ----[0m
+
+  [1mUse of undeclared Var tictactoe.core/i[0m
+
+  [36m15[0m  [36m(defn computer-move [][0m
+  [36m16[0m  [36m  (let [board (:board @app-state)[0m
+  [36m17[0m  [36m        remaining-spots [for [i (range board-size)[0m
+  [36m18[0m  [36m                              j (range board-size)[0m
+  [33m19[0m  [1m                              :when (= (get-in board [j i]) "B")][0m
+  [0m  [0m  [33m                                                        ^--- Use of undeclared Var tictactoe.core/i[0m
+  [36m20[0m  [36m                          [i j]][0m
+  [36m21[0m  [36m        move (rand-nth remaining-spots)[0m
+  [36m22[0m  [36m        path (into [:board] (reverse move))][0m
+  [36m23[0m  [36m    (swap! app-state assoc-in [:board 0 0] "C")))[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:20  column:28  ----[0m
+
+  [1mUse of undeclared Var tictactoe.core/i[0m
+
+  [36m16[0m  [36m  (let [board (:board @app-state)[0m
+  [36m17[0m  [36m        remaining-spots [for [i (range board-size)[0m
+  [36m18[0m  [36m                              j (range board-size)[0m
+  [36m19[0m  [36m                              :when (= (get-in board [j i]) "B")][0m
+  [33m20[0m  [1m                          [i j]][0m
+  [0m  [0m  [33m                           ^--- Use of undeclared Var tictactoe.core/i[0m
+  [36m21[0m  [36m        move (rand-nth remaining-spots)[0m
+  [36m22[0m  [36m        path (into [:board] (reverse move))][0m
+  [36m23[0m  [36m    (swap! app-state assoc-in [:board 0 0] "C")))[0m
+  [36m24[0m  [36m[0m
+  [36m25[0m  [36m(defn blank [i j][0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:20  column:30  ----[0m
+
+  [1mUse of undeclared Var tictactoe.core/j[0m
+
+  [36m16[0m  [36m  (let [board (:board @app-state)[0m
+  [36m17[0m  [36m        remaining-spots [for [i (range board-size)[0m
+  [36m18[0m  [36m                              j (range board-size)[0m
+  [36m19[0m  [36m                              :when (= (get-in board [j i]) "B")][0m
+  [33m20[0m  [1m                          [i j]][0m
+  [0m  [0m  [33m                             ^--- Use of undeclared Var tictactoe.core/j[0m
+  [36m21[0m  [36m        move (rand-nth remaining-spots)[0m
+  [36m22[0m  [36m        path (into [:board] (reverse move))][0m
+  [36m23[0m  [36m    (swap! app-state assoc-in [:board 0 0] "C")))[0m
+  [36m24[0m  [36m[0m
+  [36m25[0m  [36m(defn blank [i j][0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.014 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.3 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.605 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.664 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.655 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.31 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.726 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.902 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/tictactoe.js" in 1.502 seconds.[0m
+[36m----  Could not Read  src/tictactoe/core.cljs   line:21  column:31  ----[0m
+
+  [1mUnmatched delimiter )[0m
+
+  [36m19[0m  [36m                          [i j])[0m
+  [36m20[0m  [36m        move (rand-nth remaining-spots)[0m
+  [33m21[0m  [1m    (assoc-in board move "C")))[0m
+  [0m  [0m  [33m                              ^--- Unmatched delimiter )[0m
+  [36m22[0m  [36m[0m
+  [36m23[0m  [36m(defn blank [i j][0m
+  [36m24[0m  [36m  [:rect {:width 0.9[0m
+
+[36m----  Reader Error : Please see src/tictactoe/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.19 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.215 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.869 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/tictactoe.js" in 1.813 seconds.[0m
+[36m----  Could not Read  src/tictactoe/core.cljs   line:64  column:53  ----[0m
+
+  [1mUnmatched delimiter )[0m
+
+  [36m62[0m  [36m                (swap! app-state :game-status :player-victory)[0m
+  [36m63[0m  [36m                (swap! app-state update-in [:board] computer-move)[0m
+  [33m64[0m  [1m              (swap! app-state check-game-status))))}])[0m
+  [0m  [0m  [33m                                                    ^--- Unmatched delimiter )[0m
+  [36m65[0m  [36m[0m
+  [36m66[0m  [36m(defn circle [i j][0m
+  [36m67[0m  [36m  [:circle[0m
+
+[36m----  Reader Error : Please see src/tictactoe/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/tictactoe.js" in 1.169 seconds.[0m
+[36m----  Could not Read  src/tictactoe/core.cljs   line:64  column:53  ----[0m
+
+  [1mUnmatched delimiter )[0m
+
+  [36m62[0m  [36m                (swap! app-state :game-status :player-victory)[0m
+  [36m63[0m  [36m                (swap! app-state update-in [:board] computer-move)[0m
+  [33m64[0m  [1m              (swap! app-state check-game-status))))}])[0m
+  [0m  [0m  [33m                                                    ^--- Unmatched delimiter )[0m
+  [36m65[0m  [36m[0m
+  [36m66[0m  [36m(defn circle [i j][0m
+  [36m67[0m  [36m  [:circle[0m
+
+[36m----  Reader Error : Please see src/tictactoe/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/tictactoe.js" in 1.447 seconds.[0m
+[36m----  Could not Read  src/tictactoe/core.cljs   line:31  column:1  ----[0m
+
+  [1mEOF while reading, starting at line 31 and column 1[0m
+
+  [36m29[0m  [36m          owner))))[0m
+  [36m30[0m  [36m[0m
+  [33m31[0m  [1m(defn win? [owner board][0m
+  [0m  [0m  [33m^--- EOF while reading, starting at line 31 and column 1[0m
+  [36m32[0m  [36m  (some true?[0m
+  [36m33[0m  [36m      (for [i (range board-size)[0m
+  [36m34[0m  [36m            j (range board-size)[0m
+
+[36m----  Reader Error : Please see src/tictactoe/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/tictactoe.js" in 0.772 seconds.[0m
+[36m----  Could not Read  src/tictactoe/core.cljs   line:31  column:1  ----[0m
+
+  [1mEOF while reading, starting at line 31 and column 1[0m
+
+  [36m29[0m  [36m          owner))))[0m
+  [36m30[0m  [36m[0m
+  [33m31[0m  [1m(defn win? [owner board][0m
+  [0m  [0m  [33m^--- EOF while reading, starting at line 31 and column 1[0m
+  [36m32[0m  [36m  (some true?[0m
+  [36m33[0m  [36m      (for [i (range board-size)[0m
+  [36m34[0m  [36m            j (range board-size)[0m
+
+[36m----  Reader Error : Please see src/tictactoe/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:36  column:9  ----[0m
+
+  [1mWrong number of args (4) passed to tictactoe.core/straight[0m
+
+  [36m32[0m  [36m  (some true?[0m
+  [36m33[0m  [36m      (for [i (range board-size)[0m
+  [36m34[0m  [36m            j (range board-size)[0m
+  [36m35[0m  [36m            dir [[1 0] [0 1] [1 1] [1 -1]]][0m
+  [33m36[0m  [1m        (straight owner board [i j] dir))))[0m
+  [0m  [0m  [33m        ^--- Wrong number of args (4) passed to tictactoe.core/straight[0m
+  [36m37[0m  [36m[0m
+  [36m38[0m  [36m(defn full? [board][0m
+  [36m39[0m  [36m  (every? #{"P" "C"} (apply concat board)))[0m
+  [36m40[0m  [36m[0m
+  [36m41[0m  [36m(defn game-status [board][0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:36  column:9  ----[0m
+
+  [1mWrong number of args (4) passed to tictactoe.core/straight[0m
+
+  [36m32[0m  [36m  (some true?[0m
+  [36m33[0m  [36m      (for [i (range board-size)[0m
+  [36m34[0m  [36m            j (range board-size)[0m
+  [36m35[0m  [36m            dir [[1 0] [0 1] [1 1] [1 -1]]][0m
+  [33m36[0m  [1m        (straight owner board [i j] dir))))[0m
+  [0m  [0m  [33m        ^--- Wrong number of args (4) passed to tictactoe.core/straight[0m
+  [36m37[0m  [36m[0m
+  [36m38[0m  [36m(defn full? [board][0m
+  [36m39[0m  [36m  (every? #{"P" "C"} (apply concat board)))[0m
+  [36m40[0m  [36m[0m
+  [36m41[0m  [36m(defn game-status [board][0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:43  column:5  ----[0m
+
+  [1mWrong number of args (3) passed to tictactoe.core/win?[0m
+
+  [36m39[0m  [36m  (every? #{"P" "C"} (apply concat board)))[0m
+  [36m40[0m  [36m[0m
+  [36m41[0m  [36m(defn game-status [board][0m
+  [36m42[0m  [36m  (cond[0m
+  [33m43[0m  [1m    (win? "P" board win-length) :player-victory[0m
+  [0m  [0m  [33m    ^--- Wrong number of args (3) passed to tictactoe.core/win?[0m
+  [36m44[0m  [36m    (win? "C" board win-length) :computer-victory[0m
+  [36m45[0m  [36m    (full? board) :draw[0m
+  [36m46[0m  [36m    :else :in-progress))[0m
+  [36m47[0m  [36m[0m
+  [36m48[0m  [36m(defn check-game-status [state][0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:44  column:5  ----[0m
+
+  [1mWrong number of args (3) passed to tictactoe.core/win?[0m
+
+  [36m41[0m  [36m(defn game-status [board][0m
+  [36m42[0m  [36m  (cond[0m
+  [36m43[0m  [36m    (win? "P" board win-length) :player-victory[0m
+  [33m44[0m  [1m    (win? "C" board win-length) :computer-victory[0m
+  [0m  [0m  [33m    ^--- Wrong number of args (3) passed to tictactoe.core/win?[0m
+  [36m45[0m  [36m    (full? board) :draw[0m
+  [36m46[0m  [36m    :else :in-progress))[0m
+  [36m47[0m  [36m[0m
+  [36m48[0m  [36m(defn check-game-status [state][0m
+  [36m49[0m  [36m  (assoc state :game-status (game-status (:board state))))[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:59  column:19  ----[0m
+
+  [1mcljs.core/*, all arguments must be numbers, got [any cljs.core/Keyword] instead.[0m
+
+  [36m55[0m  [36m:x (+ 0.05 i)[0m
+  [36m56[0m  [36m:y (+ 0.05 j)[0m
+  [36m57[0m  [36m:on-click[0m
+  [36m58[0m  [36m(fn blank-click [e][0m
+  [33m59[0m  [1m  (when (* (:game-status @app-state) :in-progress)[0m
+  [0m  [0m  [33m        ^--- cljs.core/*, all arguments must be numbers, got [any cljs.core/Keyword] instead.[0m
+  [36m60[0m  [36m    (swap! app-state assoc-in [:board j i] "P")[0m
+  [36m61[0m  [36m    (if (win? "P" (:board @app-state) win-length)[0m
+  [36m62[0m  [36m      (swap! app-state :game-status :player-victory)[0m
+  [36m63[0m  [36m      (swap! app-state update-in [:board] computer-move))[0m
+  [36m64[0m  [36m    (swap! app-state check-game-status)))}])[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:61  column:19  ----[0m
+
+  [1mWrong number of args (3) passed to tictactoe.core/win?[0m
+
+  [36m57[0m  [36m          :on-click[0m
+  [36m58[0m  [36m          (fn blank-click [e][0m
+  [36m59[0m  [36m            (when (* (:game-status @app-state) :in-progress)[0m
+  [36m60[0m  [36m              (swap! app-state assoc-in [:board j i] "P")[0m
+  [33m61[0m  [1m              (if (win? "P" (:board @app-state) win-length)[0m
+  [0m  [0m  [33m                  ^--- Wrong number of args (3) passed to tictactoe.core/win?[0m
+  [36m62[0m  [36m                (swap! app-state :game-status :player-victory)[0m
+  [36m63[0m  [36m                (swap! app-state update-in [:board] computer-move))[0m
+  [36m64[0m  [36m              (swap! app-state check-game-status)))}])[0m
+  [36m65[0m  [36m[0m
+  [36m66[0m  [36m(defn circle [i j][0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.347 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:59  column:19  ----[0m
+
+  [1mcljs.core/*, all arguments must be numbers, got [any cljs.core/Keyword] instead.[0m
+
+  [36m55[0m  [36m:x (+ 0.05 i)[0m
+  [36m56[0m  [36m:y (+ 0.05 j)[0m
+  [36m57[0m  [36m:on-click[0m
+  [36m58[0m  [36m(fn blank-click [e][0m
+  [33m59[0m  [1m  (when (* (:game-status @app-state) :in-progress)[0m
+  [0m  [0m  [33m        ^--- cljs.core/*, all arguments must be numbers, got [any cljs.core/Keyword] instead.[0m
+  [36m60[0m  [36m    (swap! app-state assoc-in [:board j i] "P")[0m
+  [36m61[0m  [36m    (if (win? "P" (:board @app-state) win-length)[0m
+  [36m62[0m  [36m      (swap! app-state :game-status :player-victory)[0m
+  [36m63[0m  [36m      (swap! app-state update-in [:board] computer-move))[0m
+  [36m64[0m  [36m    (swap! app-state check-game-status)))}])[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.539 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.238 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.386 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.281 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.197 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.444 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.651 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.207 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.33 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.831 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 6.396 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 4.684 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.898 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:53  column:3  ----[0m
+
+  [1mWrong number of args (1) passed to cljs.core/update-in[0m
+
+  [36m49[0m  [36m(defn update-status [state][0m
+  [36m50[0m  [36m  (assoc state :game-status (game-status (:board state))))[0m
+  [36m51[0m  [36m[0m
+  [36m52[0m  [36m(defn check-game-status [state][0m
+  [33m53[0m  [1m  (-> state[0m
+  [0m  [0m  [33m  ^--- Wrong number of args (1) passed to cljs.core/update-in[0m
+  [36m54[0m  [36m      update-in [:board] computer-move)[0m
+  [36m55[0m  [36m      (update-status)))[0m
+  [36m56[0m  [36m[0m
+  [36m57[0m  [36m(defn blank [i j][0m
+  [36m58[0m  [36m  [:rect {:width 0.9[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:55  column:7  ----[0m
+
+  [1mWrong number of args (0) passed to tictactoe.core/update-status[0m
+
+  [36m52[0m  [36m(defn check-game-status [state][0m
+  [36m53[0m  [36m  (-> state[0m
+  [36m54[0m  [36m      update-in [:board] computer-move)[0m
+  [33m55[0m  [1m      (update-status)))[0m
+  [0m  [0m  [33m      ^--- Wrong number of args (0) passed to tictactoe.core/update-status[0m
+  [36m56[0m  [36m[0m
+  [36m57[0m  [36m(defn blank [i j][0m
+  [36m58[0m  [36m  [:rect {:width 0.9[0m
+  [36m59[0m  [36m          :height 0.9[0m
+  [36m60[0m  [36m          :fill "grey"[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[31mFailed to compile "resources/public/js/compiled/tictactoe.js" in 2.795 seconds.[0m
+[36m----  Could not Read  src/tictactoe/core.cljs   line:55  column:24  ----[0m
+
+  [1mUnmatched delimiter )[0m
+
+  [36m53[0m  [36m  (-> state[0m
+  [36m54[0m  [36m      update-in [:board] computer-move)[0m
+  [33m55[0m  [1m      (update-status)))[0m
+  [0m  [0m  [33m                       ^--- Unmatched delimiter )[0m
+  [36m56[0m  [36m[0m
+  [36m57[0m  [36m(defn blank [i j][0m
+  [36m58[0m  [36m  [:rect {:width 0.9[0m
+
+[36m----  Reader Error : Please see src/tictactoe/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:53  column:3  ----[0m
+
+  [1mWrong number of args (1) passed to cljs.core/update-in[0m
+
+  [36m49[0m  [36m(defn update-status [state][0m
+  [36m50[0m  [36m  (assoc state :game-status (game-status (:board state))))[0m
+  [36m51[0m  [36m[0m
+  [36m52[0m  [36m(defn check-game-status [state][0m
+  [33m53[0m  [1m  (-> state[0m
+  [0m  [0m  [33m  ^--- Wrong number of args (1) passed to cljs.core/update-in[0m
+  [36m54[0m  [36m      update-in [:board] computer-move)[0m
+  [36m55[0m  [36m      (update-status)))[0m
+  [36m56[0m  [36m[0m
+  [36m57[0m  [36m(defn blank [i j][0m
+  [36m58[0m  [36m  [:rect {:width 0.9[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:55  column:7  ----[0m
+
+  [1mWrong number of args (0) passed to tictactoe.core/update-status[0m
+
+  [36m52[0m  [36m(defn check-game-status [state][0m
+  [36m53[0m  [36m  (-> state[0m
+  [36m54[0m  [36m      update-in [:board] computer-move)[0m
+  [33m55[0m  [1m      (update-status)))[0m
+  [0m  [0m  [33m      ^--- Wrong number of args (0) passed to tictactoe.core/update-status[0m
+  [36m56[0m  [36m[0m
+  [36m57[0m  [36m(defn blank [i j][0m
+  [36m58[0m  [36m  [:rect {:width 0.9[0m
+  [36m59[0m  [36m          :height 0.9[0m
+  [36m60[0m  [36m          :fill "grey"[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[31mFailed to compile "resources/public/js/compiled/tictactoe.js" in 2.053 seconds.[0m
+[36m----  Could not Read  src/tictactoe/core.cljs   line:55  column:24  ----[0m
+
+  [1mUnmatched delimiter )[0m
+
+  [36m53[0m  [36m  (-> state[0m
+  [36m54[0m  [36m      update-in [:board] computer-move)[0m
+  [33m55[0m  [1m      (update-status)))[0m
+  [0m  [0m  [33m                       ^--- Unmatched delimiter )[0m
+  [36m56[0m  [36m[0m
+  [36m57[0m  [36m(defn blank [i j][0m
+  [36m58[0m  [36m  [:rect {:width 0.9[0m
+
+[36m----  Reader Error : Please see src/tictactoe/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:53  column:3  ----[0m
+
+  [1mWrong number of args (1) passed to cljs.core/update-in[0m
+
+  [36m49[0m  [36m(defn update-status [state][0m
+  [36m50[0m  [36m  (assoc state :game-status (game-status (:board state))))[0m
+  [36m51[0m  [36m[0m
+  [36m52[0m  [36m(defn check-game-status [state][0m
+  [33m53[0m  [1m  (-> state[0m
+  [0m  [0m  [33m  ^--- Wrong number of args (1) passed to cljs.core/update-in[0m
+  [36m54[0m  [36m      update-in [:board] computer-move)[0m
+  [36m55[0m  [36m      (update-status))[0m
+  [36m56[0m  [36m[0m
+  [36m57[0m  [36m(defn blank [i j][0m
+  [36m58[0m  [36m  [:rect {:width 0.9[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/tictactoe/core.cljs   line:55  column:7  ----[0m
+
+  [1mWrong number of args (0) passed to tictactoe.core/update-status[0m
+
+  [36m52[0m  [36m(defn check-game-status [state][0m
+  [36m53[0m  [36m  (-> state[0m
+  [36m54[0m  [36m      update-in [:board] computer-move)[0m
+  [33m55[0m  [1m      (update-status))[0m
+  [0m  [0m  [33m      ^--- Wrong number of args (0) passed to tictactoe.core/update-status[0m
+  [36m56[0m  [36m[0m
+  [36m57[0m  [36m(defn blank [i j][0m
+  [36m58[0m  [36m  [:rect {:width 0.9[0m
+  [36m59[0m  [36m          :height 0.9[0m
+  [36m60[0m  [36m          :fill "grey"[0m
+
+[36m----  Compiler Warning : Please see src/tictactoe/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.437 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.813 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.715 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.465 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.717 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/tictactoe.js" in 1.222 seconds.[0m
+[36m----  Could not Read  src/tictactoe/core.cljs   line:18  column:1  ----[0m
+
+  [1mEOF while reading, starting at line 18 and column 1[0m
+
+  [36m16[0m  [36m         :game-status :in-progress}))[0m
+  [36m17[0m  [36m[0m
+  [33m18[0m  [1m(defn computer-move [board][0m
+  [0m  [0m  [33m^--- EOF while reading, starting at line 18 and column 1[0m
+  [36m19[0m  [36m  (let [remaining-spots (for [i (range board-size)[0m
+  [36m20[0m  [36m                              j (range board-size)[0m
+  [36m21[0m  [36m                              :when (= (get-in board [j i]) "B")][0m
+
+[36m----  Reader Error : Please see src/tictactoe/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.264 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.525 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.82 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 0.725 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.379 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/tictactoe.js" in 0.752 seconds.[0m
+[36m----  Could not Read  src/tictactoe/core.cljs   line:16  column:36  ----[0m
+
+  [1mMap literal must contain an even number of forms[0m
+
+  [36m14[0m  [36m  (atom {:t ext "Welcome to tic tac toe!"[0m
+  [36m15[0m  [36m         :board (new-board board-size)[0m
+  [33m16[0m  [1m         :game-status :in-progress}))[0m
+  [0m  [0m  [33m                                   ^--- Map literal must contain an even number of forms[0m
+  [36m17[0m  [36m[0m
+  [36m18[0m  [36m(defn computer-move [board][0m
+  [36m19[0m  [36m  (let [remaining-spots (for [i (range board-size)[0m
+
+[36m----  Reader Error : Please see src/tictactoe/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 8.497 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 6.305 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 2.447 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.95 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
+[0mCompiling "resources/public/js/compiled/tictactoe.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/tictactoe.js" in 1.901 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/tictactoe/core.js
